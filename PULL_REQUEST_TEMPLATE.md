@@ -1,8 +1,8 @@
 ### Description
-Removed login button from navigation bar
+<Add the description of your changes here>
 
 ### Link to Jira / ServiceNow
-https://auburnu.atlassian.net/browse/OVPRS2022-164
+<insert the link to the JIRA story or ServiceNow Incident that this pull request is for>
 
 ### Link to page(s) within application
-debug.auburn.edu:8080/OVPR/Home
+<insert a link to the page(s) in the application. Example: debug.auburn.edu:8080/OVPR/Home>
