@@ -1,0 +1,10 @@
+version: 1
+mergeable:
+  - when: pull_request.*, pull_request_review.*
+    name: 'Required Approvals Check'
+    validate:
+      - do: approvals
+        min:
+          count: 1
+        limit:
+          owners: true
