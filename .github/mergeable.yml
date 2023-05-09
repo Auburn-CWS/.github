@@ -5,6 +5,6 @@ mergeable:
     validate:
       - do: approvals
         min:
-          count: 0
+          count: 1
         limit:
           teams: ['tech_leads']
