@@ -7,4 +7,4 @@ mergeable:
         min:
           count: 1
         limit:
-          teams: ['org/tech_leads']
+          teams: ['tech_leads']
