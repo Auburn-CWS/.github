@@ -7,4 +7,4 @@ mergeable:
         min:
           count: 1
         limit:
-          owners: true
+          teams: ['Auburn-CWS/tech_leads']
