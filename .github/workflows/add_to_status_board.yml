@@ -1,0 +1,27 @@
+name: Add new PRs and issues to status board
+
+on:
+  issues:
+    types:
+      - opened
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  add-to-project:
+    name: Add PR or issue to project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add to project - PR
+        if: github.event_name == 'pull_request'
+        uses: actions/add-to-project@v0.4.0
+        with:
+          project-url: ${{ vars.PR_STATUS_BOARD_URL }}
+          github-token: ${{ secrets.PROJECT_AUTOMATION_PAT }}
+      - name: Add to project - Issue
+        if: github.event_name == 'issues'
+        uses: actions/add-to-project@v0.4.0
+        with:
+          project-url: ${{ vars.ISSUE_STATUS_BOARD_URL }}
+          github-token: ${{ secrets.PROJECT_AUTOMATION_PAT }}
