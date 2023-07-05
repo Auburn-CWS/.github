@@ -1,5 +1,3 @@
-### UPDATE THE INFORMATION BELOW TO CONTAIN THE INFORMATION FOR YOUR PULL REQUEST
-
 ### Description
 Add the description of your changes here
 
