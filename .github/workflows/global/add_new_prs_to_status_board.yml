@@ -1,0 +1,25 @@
+name: Add new PRs to status board
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  add-to-project-with-fields:
+    name: Add PR to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/add-to-project@v0.4.0 # This adds the PR to the project
+        with:
+          project-url: ${{ vars.PR_STATUS_BOARD_URL }}
+          github-token: ${{ secrets.PROJECT_AUTOMATION_PAT }}
+        id: add-project
+      - uses: titoportas/update-project-fields@v0.1.0
+        with:
+          project-url: ${{ vars.PR_STATUS_BOARD_URL }}
+          github-token: ${{ secrets.PROJECT_AUTOMATION_PAT }}
+          item-id: ${{ steps.add-project.outputs.itemId }} # Use the item-id output of the previous step
+          field-keys: Semester
+          field-values: ${{ vars.SEMESTER }}
