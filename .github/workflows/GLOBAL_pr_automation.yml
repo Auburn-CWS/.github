@@ -1,0 +1,13 @@
+name: PR automation
+
+on:
+  pull_request_target:
+    types: [ opened, closed, review_requested, review_request_removed ]
+  pull_request_review:
+    types: [ submitted ]
+      
+# call the reusable workflow
+jobs:
+  handle_pr_automation:
+    uses: Auburn-CWS/.github-internal/.github/workflows/handle_pr_automation.yml@main
+    secrets: inherit
