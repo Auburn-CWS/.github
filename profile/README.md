@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Orange Team: Summer 2024</strong>
+      <strong>Orange Team: Spring 2024</strong>
     </td>
   </tr>
   <tr>
