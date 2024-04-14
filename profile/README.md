@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img width="800" height="10" src="assets/orange.png">
+      <img width="800" height="10" src="https://github.com/Auburn-CWS/.github/blob/dev/profile/assets/orange.png">
     </td>
   </tr>
   <tr>
