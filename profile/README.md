@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  We are <a href="https://cws.auburn.edu/cws">Campus Web Solutions</a> at <a href="https://auburn.edu">Auburn University</a>.
+  We are <a href="https://cws.auburn.edu/cws" target="_blank">Campus Web Solutions</a> at <a href="https://auburn.edu" target="_blank">Auburn University</a>.
 </p>
 
 <p align="center">
