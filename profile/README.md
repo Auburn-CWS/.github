@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  This is where we collaborate and store our code.
+  This is where we develop and store our code.
 </p>
 
 <table align="center">
