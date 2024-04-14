@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  Welcome to Campus Web Solutions at Auburn University!
+  We are <a href="https://cws.auburn.edu/cws">Campus Web Solutions</a> at <a href="https://auburn.edu">Auburn University</a>.
 </p>
 
 <p align="center">
-  We build, improve, and maintain Auburn University web applications.
+  This is where we collaborate and store our code.
 </p>
 
 <table align="center">
