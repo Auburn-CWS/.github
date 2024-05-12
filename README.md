@@ -23,5 +23,3 @@ Meaning why store them in a public repo?
 Because it is not possible to control these things in a global private repo. Doesn't work. It has to be the public .github repo inside an organization at this point in time.
 
 Doesn't really matter because these files are not sensitive.
-
-This brings up another point.
