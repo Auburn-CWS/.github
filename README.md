@@ -6,8 +6,9 @@ This is one of GitHub's special repositories that controls organization settings
 
 ## Public Organization README
 
-The `./profile/README.md` file is the public README for CWS. This is different than the internal README for CWS GitHub members and can be customized accordingly.
+The `./profile/README.md` file is the public organization README.
 
+This is different than the private CWS README located at https://github.com/Auburn-CWS/.github-private.
 ## Pull Request Template
 
 The global pull request template is also stored here at `./PULL_REQUEST_TEMPLATE.md`. Customize this if you want the PRs to load up with a different template.
