@@ -12,7 +12,7 @@ The global pull request template is also stored here at `./PULL_REQUEST_TEMPLATE
 
 ## Global Issue Templates
 
-There are also global templates here for GitHub issues. They're stored at `./.github/ISSUE_TEMPLATE`.
+There are also global templates here for GitHub issues. They're stored in the `./.github/ISSUE_TEMPLATE` directory.
 
 ## Why store the global PR/issue templates here?
 
