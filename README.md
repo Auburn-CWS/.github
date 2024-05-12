@@ -2,6 +2,8 @@
 
 This is one of GitHub's special repositories that controls organization settings.
 
+![image](https://github.com/Auburn-CWS/.github/assets/41703860/20ad8988-565f-4588-b282-d1b373f61e19)
+
 ## Public Organization README
 
 The `./profile/README.md` file is the public README for CWS. This is different than the internal README for CWS GitHub members and can be customized accordingly.
