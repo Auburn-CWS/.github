@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  This is where we develop and store our code.
+   We use GitHub to streamline our development and continuous integration workflows across our applications. 
 </p>
 
 <table align="center">
