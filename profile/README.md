@@ -13,12 +13,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Orange Team: Spring 2024</strong>
+      <strong>Blue Team: Summer 2024</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="800" height="10" src="https://github.com/Auburn-CWS/.github/blob/dev/profile/assets/orange.png">
+      <img width="800" height="10" src="https://github.com/Auburn-CWS/.github/blob/dev/profile/assets/blue.png">
     </td>
   </tr>
   <tr>
