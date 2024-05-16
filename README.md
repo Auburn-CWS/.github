@@ -1,6 +1,7 @@
 # .github
 
-This is one of GitHub's special repositories that controls organization settings. THIS MUST BE HERE DO NOT DELETE
+This is one of GitHub's special repositories that controls organization settings.
+THIS MUST BE HERE DO NOT DELETE
 
 ![image](https://github.com/Auburn-CWS/.github/assets/41703860/20ad8988-565f-4588-b282-d1b373f61e19)
 
