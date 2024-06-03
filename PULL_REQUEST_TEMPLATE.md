@@ -1,6 +1,6 @@
 ## Checklist
 - [ ] Your code builds and satisfies functionality, to the best of your knowledge
-- [ ] You have read and are following the [Code Review Structure](https://auburnu.atlassian.net/wiki/x/wgFsf) when assigning reviewers
+- [ ] You have read and are following the ![Code Review Structure](https://auburnu.atlassian.net/wiki/x/wgFsf) when assigning reviewers
 
 ## Information
 **Fill in the following, replacing the placeholders with actual information relevant to your pull request.**
