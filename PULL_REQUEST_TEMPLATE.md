@@ -4,13 +4,13 @@
 - You have read and are following the [Code Review Structure](https://auburnu.atlassian.net/wiki/x/wgFsf) when assigning reviewers
 
 ### Description of Changes
-List your changes you made here:
+none
 
 ### Link to Jira / ServiceNow
-put a link to your ticket / issue here (if you have one):
+none
 
 ### Link to page(s) within application
-List any pages in the application for the reviewer:
+none
 
-### Database Updates Made
-List any changes you made to the database schema:
+### Database Schema Updates Made
+none
