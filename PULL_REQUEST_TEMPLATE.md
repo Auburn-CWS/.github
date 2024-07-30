@@ -4,13 +4,13 @@
 - You have read and are following the [Code Review Structure](https://auburnu.atlassian.net/wiki/x/wgFsf) when assigning reviewers
 
 ### Description of Changes
-Made the OVPR home page
+List your changes you made here:
 
 ### Link to Jira / ServiceNow
-https://auburnu.atlassian.net/browse/OVPRS2022-1
+put a link to your ticket / issue here (if you have one):
 
 ### Link to page(s) within application
-debug.auburn.edu:8080/OVPR/Home
+List any pages in the application for the reviewer:
 
 ### Database Updates Made
-Created new database table called `tblContent`
+List any changes you made to the database schema:
