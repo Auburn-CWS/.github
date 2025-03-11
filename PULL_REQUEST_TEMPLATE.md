@@ -1,6 +1,4 @@
-[PR Checklist](https://auburnu.atlassian.net/wiki/x/BwB1mw)
-•
-[Code Review Guide](https://auburnu.atlassian.net/wiki/x/wgFsf)
+[PR Checklist](https://auburnu.atlassian.net/wiki/x/BwB1mw) • [Code Review Guide](https://auburnu.atlassian.net/wiki/x/wgFsf)
 
 ### Description of Changes
 none
