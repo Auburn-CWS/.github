@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   We use GitHub to streamline our development and continuous integration workflows across our applications. 
+  We use GitHub to streamline our development and continuous integration workflows across our applications.
 </p>
 
 <table align="center">
@@ -38,9 +38,9 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://github.com/orgs/Auburn-CWS/repositories?type=source&q=topic%3Aproduction">production</a> •
-        <a href="https://github.com/orgs/Auburn-CWS/repositories?type=source&q=topic%3Atoolkit">toolkit</a> •
-        <a href="https://github.com/orgs/Auburn-CWS/repositories?type=source&q=-topic%3Aproduction%2Ctoolkit">misc</a>
+        <a href="https://github.com/orgs/Auburn-CWS/repositories?type=source&q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+topic%3Aproduction">production</a> •
+        <a href="https://github.com/orgs/Auburn-CWS/repositories?type=source&q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+topic%3Atoolkit">toolkit</a> •
+        <a href="https://github.com/orgs/Auburn-CWS/repositories?type=source&q=mirror%3Afalse+fork%3Afalse+archived%3Afalse+-topic%3Aproduction%2Ctoolkit">misc</a>
       </p>
     </td>
   </tr>
