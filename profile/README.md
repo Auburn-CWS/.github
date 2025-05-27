@@ -2,23 +2,20 @@
   <img src="https://user-images.githubusercontent.com/41703860/236584352-7879768b-df02-4e86-b8f0-8c81d2a70941.png" alt="Campus Web Solutions logo" width="800">
 </p>
 
-<p align="center">
-  We are <a href="https://cws.auburn.edu/cws" target="_blank">Campus Web Solutions</a> at <a href="https://auburn.edu" target="_blank">Auburn University</a>.
-</p>
-
-<p align="center">
-  We use GitHub to streamline our development and continuous integration workflows across our applications.
-</p>
-
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Orange Team: Summer 2025</strong>
+      <strong><a href="https://cws.auburn.edu/cws" target="_blank">Campus Web Solutions</a></strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="800" height="10" src="https://github.com/Auburn-CWS/.github/blob/dev/profile/assets/orange.png">
+      We develop and maintain custom web applications for <a href="https://auburn.edu" target="_blank">Auburn University</a>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="800" height="10" src="https://github.com/Auburn-CWS/.github/blob/dev/profile/assets/blue.png">
     </td>
   </tr>
   <tr>
